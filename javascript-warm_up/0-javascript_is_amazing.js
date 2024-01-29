@@ -1,4 +1,4 @@
-/*Welcome to my first javascript code */
+/*Welcome to my first javascript code... */
 
 let myVar= "Javascipt is amazing";
 

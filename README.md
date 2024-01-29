@@ -1,5 +1,5 @@
 Hey there,
 
-This is a repo for ALX javascript projects.
+this is a repo for ALX javascript projects.
  
  
